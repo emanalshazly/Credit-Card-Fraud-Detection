@@ -3,7 +3,7 @@
 
 **Document Version:** 1.0
 **Date:** February 2025
-**Author:** ML Strategy Team
+**Author:** [Iman Elshazli](https://www.linkedin.com/in/monna1478/) - Prompt Engineer
 **Status:** ✅ Approved for Development
 
 ---
