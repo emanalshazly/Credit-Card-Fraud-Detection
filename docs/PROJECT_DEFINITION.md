@@ -2,8 +2,8 @@
 ## Credit Card Fraud Detection System
 
 **Document Version:** 1.0
-**Date:** January 2026
-**Author:** ML Strategy Team
+**Date:** February 2025
+**Author:** [Iman Elshazli](https://www.linkedin.com/in/monna1478/) - Prompt Engineer
 **Status:** ✅ Approved for Development
 
 ---

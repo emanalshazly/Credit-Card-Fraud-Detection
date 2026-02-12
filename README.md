@@ -237,6 +237,14 @@ print(report)
 
 ---
 
+## 👤 Author
+
+**Iman Elshazli** - Prompt Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/monna1478/)
+
+---
+
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE)
@@ -250,5 +258,7 @@ MIT License - see [LICENSE](LICENSE)
 *A systematic approach to production ML systems*
 
 **Phases:** Strategic Planning → Feature Engineering → Model Development
+
+**Created by [Iman Elshazli](https://www.linkedin.com/in/monna1478/)**
 
 </div>

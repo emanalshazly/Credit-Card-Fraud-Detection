@@ -3,6 +3,8 @@
 ## Credit Card Fraud Detection
 
 > **Part of the ML Strategy Framework - Phase 2**
+>
+> **Author:** [Iman Elshazli](https://www.linkedin.com/in/monna1478/)
 
 ---
 
